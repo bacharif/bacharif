@@ -1,4 +1,4 @@
-## Hi there 👋
+https://avatars.githubusercontent.com/u/22233193?s=400&u=dc9cf7eeb6bde741236f77706c415f1420936eb4&v=4
 
 <!--
 **bacharif/bacharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
